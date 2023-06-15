@@ -5,5 +5,7 @@ public class gitrevert {
         int x =34;
         int y = 45;
         System.out.println(x+y);
+        System.out.println(x*y);
+        
     }
 }
